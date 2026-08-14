@@ -1,0 +1,7 @@
+ratio,n_folds,macro_log_loss_mean,macro_log_loss_mean_across_fold_std,macro_brier_mean,macro_brier_mean_across_fold_std,macro_auc_mean,macro_auc_mean_across_fold_std,macro_calib_err_mean,macro_calib_err_mean_across_fold_std,macro_ece_mean,macro_ece_mean_across_fold_std,macro_baseA_log_loss,macro_baseA_log_loss_across_fold_std,macro_baseA_brier,macro_baseA_brier_across_fold_std,macro_baseA_auc,macro_baseA_auc_across_fold_std,macro_baseA_calib_err,macro_baseA_calib_err_across_fold_std
+0.05,5,0.3546,0.0492,0.1098,0.0186,0.7705,0.034,0.1463,0.0209,0.1469,0.0208,0.4267,0.0261,0.1403,0.0102,0.7969,0.0309,0.212,0.011
+0.1,5,0.3605,0.0411,0.1117,0.0151,0.7571,0.033,0.1472,0.0147,0.1483,0.0147,0.4267,0.0261,0.1403,0.0102,0.7969,0.0309,0.212,0.011
+0.2,5,0.3815,0.0447,0.1199,0.0173,0.7412,0.0347,0.1595,0.0153,0.1612,0.0156,0.4267,0.0261,0.1403,0.0102,0.7969,0.0309,0.212,0.011
+0.3,5,0.3812,0.0495,0.1195,0.0189,0.743,0.0438,0.1625,0.0145,0.1635,0.0152,0.4267,0.0261,0.1403,0.0102,0.7969,0.0309,0.212,0.011
+0.5,5,0.4044,0.0362,0.1289,0.0146,0.745,0.0361,0.1873,0.0162,0.188,0.016,0.4267,0.0261,0.1403,0.0102,0.7969,0.0309,0.212,0.011
+1.0,5,0.4084,0.0552,0.1302,0.0224,0.7494,0.0483,0.1929,0.026,0.1931,0.026,0.4267,0.0261,0.1403,0.0102,0.7969,0.0309,0.212,0.011

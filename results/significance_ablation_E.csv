@@ -1,0 +1,7 @@
+ratio,n_runs,log_loss_mean,log_loss_vs_baseline,log_loss_t,log_loss_p,log_loss_significant_improvement,brier_mean,brier_vs_baseline,brier_t,brier_p,brier_significant_improvement
+0.05,5,0.3477,-0.0503,-3.433,0.0265,True,0.1083,-0.0204,-3.521,0.0244,True
+0.1,5,0.3426,-0.0554,-4.125,0.0146,True,0.1061,-0.0226,-4.144,0.0143,True
+0.2,5,0.3536,-0.0444,-3.593,0.0229,True,0.1097,-0.019,-3.864,0.0181,True
+0.3,5,0.3663,-0.0317,-3.207,0.0327,True,0.1143,-0.0144,-4.162,0.0141,True
+0.5,5,0.3848,-0.0132,-0.795,0.4709,False,0.122,-0.0067,-0.893,0.4223,False
+1.0,5,0.39,-0.008,-0.957,0.3927,False,0.1254,-0.0033,-1.018,0.3663,False

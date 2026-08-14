@@ -1,0 +1,3 @@
+comparison,n_splits,mean_log_loss_diff,ci_2.5pct,ci_97.5pct,cohens_dz,t,p
+CTGAN vs Baseline A,8,-0.0041,-0.007,-0.0009,-0.852,-2.409,0.0468
+SMOTE vs Baseline A,8,-0.0059,-0.02,0.0082,-0.284,-0.802,0.4488

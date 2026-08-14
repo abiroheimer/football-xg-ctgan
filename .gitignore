@@ -1,0 +1,70 @@
+# ============================================================
+# .gitignore — football-xg-ctgan research repository
+# ============================================================
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual environments ─────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Raw Wyscout dataset (~1.08 GB, public, download separately) ──
+data/WyScout/
+data/raw/
+
+# ── Intermediate / regenerated data caches ───────────────────
+data/shots_cache.csv
+data/shots_cache_backup.csv
+data/shots_cache_prev.csv
+data/shots_wyscout_v2.csv
+data/split_data.pkl
+data/split_data_matchgrouped.pkl
+
+# ── LaTeX build artifacts ────────────────────────────────────
+*.aux
+*.bbl
+*.blg
+*.out
+*.synctex.gz
+texput.log
+
+# ── Run / experiment logs ────────────────────────────────────
+*.log
+
+# ── Working-draft / old PDFs (keep only football.pdf) ────────
+football_claude.pdf
+football_gemini.pdf
+Abstract-Intro-Conclusion.pdf
+Improving Rare-Scenario Football Expected Goals (xG) Modeling Using CTGAN-Based Synthetic Data Augmentation.pdf
+
+# ── Extra LaTeX drafts (keep football.tex) ───────────────────
+football_backup7p.tex
+football_full.tex
+
+# ── OS-generated files ───────────────────────────────────────
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# ── IDE / editor ─────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ── Jupyter ──────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── pytest ───────────────────────────────────────────────────
+.pytest_cache/

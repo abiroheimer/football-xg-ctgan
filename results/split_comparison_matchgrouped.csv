@@ -1,0 +1,11 @@
+metric,old_shot_level,new_match_grouped
+n_train,34456,34404.0
+n_test,8615,8667.0
+n_rare_train,1076,1075.0
+n_rare_test,269,270.0
+rare_train_conv_pct,8.83,8.84
+rare_test_conv_pct,8.92,8.89
+train_conv_pct,10.42,10.4
+test_conv_pct,10.42,10.5
+n_matches_train,n/a,1552.0
+n_matches_test,n/a,389.0

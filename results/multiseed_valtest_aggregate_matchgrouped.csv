@@ -1,0 +1,4 @@
+arm,n_splits,test_log_loss_mean_of_means,test_log_loss_std_across_splits,test_auc_mean_of_means,test_auc_std_across_splits,test_calib_mean_of_means,test_calib_std_across_splits,selected_ratio_values
+Baseline A,8,0.4265,0.0344,0.7767,0.048,0.2064,0.0235,
+CTGAN,8,0.4225,0.0349,0.7785,0.0479,0.2068,0.0254,"[0.01, 0.01, 0.01, 0.1, 0.1, 0.2, 0.4, 0.8]"
+SMOTE,8,0.4206,0.0336,0.7566,0.0655,0.1887,0.0274,"[0.01, 0.1, 0.5, 1.0, 7.0, 8.0, 10.0, 10.0]"

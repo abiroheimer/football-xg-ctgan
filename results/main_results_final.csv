@@ -1,0 +1,6 @@
+Model,LogLoss,Brier,AUC,Calib,Notes
+Baseline A (Rare Test),0.4456,0.1474,0.7665,0.2155,Full real-data baseline
+Baseline B (Rare-Only),0.4621,0.1484,0.7286,0.1503,Trained only on real rare shots
+Model C (1%),0.4420 ± 0.0013,0.1468 ± 0.0005,0.7705 ± 0.0025,0.2126 ± 0.0010,Best calibration
+Model C (300%),0.4353 ± 0.0097,0.1429 ± 0.0035,0.7637 ± 0.0115,0.2214 ± 0.0058,Best probabilistic accuracy
+Model C (1%),0.4420 ± 0.0013,0.1468 ± 0.0005,0.7705 ± 0.0025,0.2126 ± 0.0010,Best discrimination

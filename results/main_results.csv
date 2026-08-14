@@ -1,0 +1,7 @@
+Model,log_loss,brier,auc,calib_err,n
+Baseline A (full test),0.5535,0.1882,0.7692,0.29,8615
+Baseline A (rare 20%),0.4456,0.1474,0.7665,0.2155,269
+Baseline A (all rare),0.398,0.1287,0.8798,0.216,1345
+Baseline B (rare 20%),0.4621,0.1484,0.7286,0.1503,269
+Model C 20% (rare 20%),0.4358,0.145,0.7684,0.2113,269
+Model C 20% (full),0.5537,0.1884,0.7686,0.2901,8615

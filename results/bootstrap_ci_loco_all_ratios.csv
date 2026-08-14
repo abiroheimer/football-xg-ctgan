@@ -1,0 +1,7 @@
+ratio,macro_rel_improve_pct,ci_2.5pct,ci_97.5pct,significant_after_holm
+0.05,31.0,23.56,39.38,True
+0.1,30.59,24.16,37.43,True
+0.2,24.75,17.75,31.28,True
+0.3,23.22,15.88,30.46,True
+0.5,11.58,5.73,18.25,True
+1.0,8.75,-2.04,19.49,False

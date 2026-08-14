@@ -1,0 +1,4 @@
+arm,n_splits,test_log_loss_mean,test_log_loss_std,test_brier_mean,test_brier_std,test_auc_mean,test_auc_std,test_calib_err_mean,test_calib_err_std
+Baseline A,8,0.4265,0.0344,0.1402,0.0143,0.7767,0.048,0.2064,0.0235
+CTGAN,8,0.4225,0.035,0.1379,0.0147,0.7785,0.0479,0.2068,0.0254
+SMOTE,8,0.4206,0.0336,0.1359,0.0126,0.7566,0.0655,0.1887,0.0274

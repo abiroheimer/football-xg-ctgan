@@ -1,0 +1,3 @@
+ORDERING: C_G < N < B_G. C_G beats both; the normal-only control is itself better calibrated than the real-rare baseline.
+macro_N_calib=0.1704 macro_CG_calib=0.1463 macro_BG_calib=0.2120
+macro_N_ll=0.3810 macro_CG_ll=0.3546 macro_BG_ll=0.4267

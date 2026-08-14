@@ -1,0 +1,7 @@
+fold,ratio,n_synth,n_eval,n_eval_goals,baseA_log_loss,baseA_brier,baseA_auc,baseA_calib_err,log_loss_mean,log_loss_std,brier_mean,brier_std,auc_mean,auc_std,calib_err_mean,calib_err_std,ece_mean,ece_std
+World_Cup+European_Championship,0.05,64,61,4,0.4309,0.1449,0.8202,0.2363,0.3827,0.0776,0.1237,0.031,0.793,0.0313,0.2027,0.053,0.205,0.0527
+World_Cup+European_Championship,0.1,128,61,4,0.4309,0.1449,0.8202,0.2363,0.3466,0.063,0.1114,0.0235,0.7324,0.0749,0.1619,0.048,0.171,0.0511
+World_Cup+European_Championship,0.2,256,61,4,0.4309,0.1449,0.8202,0.2363,0.3591,0.0452,0.114,0.0179,0.7026,0.0922,0.1675,0.0482,0.1781,0.0481
+World_Cup+European_Championship,0.3,385,61,4,0.4309,0.1449,0.8202,0.2363,0.3779,0.0388,0.1208,0.015,0.6702,0.1604,0.1921,0.0241,0.1968,0.0263
+World_Cup+European_Championship,0.5,642,61,4,0.4309,0.1449,0.8202,0.2363,0.3853,0.0438,0.1177,0.0215,0.6026,0.0995,0.1836,0.0361,0.1949,0.0356
+World_Cup+European_Championship,1.0,1284,61,4,0.4309,0.1449,0.8202,0.2363,0.3672,0.0544,0.114,0.023,0.7606,0.086,0.1965,0.0327,0.2017,0.0349

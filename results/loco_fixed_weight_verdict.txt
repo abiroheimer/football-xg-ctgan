@@ -1,0 +1,7 @@
+N->C_G REMAINS POSITIVE under fixed class weighting: 14.6% macro (vs 14.8% variable), positive in 5/5 folds.
+fixed_pw=8.5505
+B_G: variable=0.2120 fixed=0.2116
+N: variable=0.1704 fixed=0.1704
+C_G: variable=0.1452 fixed=0.1455
+N->C_G macro: variable=14.8% fixed=14.6%
+paired t (fixed): t=4.804 p=0.0086

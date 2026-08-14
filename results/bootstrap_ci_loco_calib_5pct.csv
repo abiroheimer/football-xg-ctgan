@@ -1,0 +1,2 @@
+ratio,point_estimate_pct,ci_2.5pct,ci_97.5pct,cohens_dz_fold_level,paired_t,paired_p,bootstrap_method
+0.05,31.0,23.6,39.3,-3.562,-7.965,0.0013,"two-stage: resample 5 folds, then resample 5 runs within each resampled fold"

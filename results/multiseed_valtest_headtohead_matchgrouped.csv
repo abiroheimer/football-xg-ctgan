@@ -1,0 +1,9 @@
+split_id,tag,base_seed,ctgan_selected_ratio,smote_selected_ratio,ctgan_test_ll,smote_test_ll,gap_ctgan_minus_smote,winner
+1,ORIGINAL-COMMITTED,42,0.1,1.0,0.3981,0.3961,0.002,SMOTE
+2,seed2,10042,0.01,7.0,0.4119,0.445,-0.0331,CTGAN
+3,seed3,20042,0.1,10.0,0.4177,0.4127,0.005,SMOTE
+4,seed4,30042,0.8,0.5,0.3778,0.3804,-0.0027,CTGAN
+5,seed5,40042,0.01,0.1,0.3891,0.3849,0.0042,SMOTE
+6,seed6,50042,0.4,10.0,0.4653,0.4518,0.0136,SMOTE
+7,seed7,60042,0.2,8.0,0.4539,0.4208,0.033,SMOTE
+8,seed8,70042,0.01,0.01,0.4659,0.4733,-0.0074,CTGAN
